@@ -1,0 +1,9 @@
+C:\Users\mohamad\Desktop\unknow\Simple Task Manger\Simple Task Manger\bin\Debug\Simple Task Manger.exe.config
+C:\Users\mohamad\Desktop\unknow\Simple Task Manger\Simple Task Manger\bin\Debug\Simple Task Manger.exe
+C:\Users\mohamad\Desktop\unknow\Simple Task Manger\Simple Task Manger\bin\Debug\Simple Task Manger.pdb
+C:\Users\mohamad\Desktop\unknow\Simple Task Manger\Simple Task Manger\obj\Debug\Simple_Task_Manger.Form1.resources
+C:\Users\mohamad\Desktop\unknow\Simple Task Manger\Simple Task Manger\obj\Debug\Simple_Task_Manger.Properties.Resources.resources
+C:\Users\mohamad\Desktop\unknow\Simple Task Manger\Simple Task Manger\obj\Debug\Simple_Task_Manger.Run_New_Task.resources
+C:\Users\mohamad\Desktop\unknow\Simple Task Manger\Simple Task Manger\obj\Debug\Simple Task Manger.csproj.GenerateResource.Cache
+C:\Users\mohamad\Desktop\unknow\Simple Task Manger\Simple Task Manger\obj\Debug\Simple Task Manger.exe
+C:\Users\mohamad\Desktop\unknow\Simple Task Manger\Simple Task Manger\obj\Debug\Simple Task Manger.pdb
